@@ -1,7 +1,7 @@
 <img src="pfp.png" width="140" align="right" />
 
-c++ enthusiast.
+c++ fan
 
-windows internals, game internals + externals, lots source 2 and osu, low level reversing. a lot of ui work too.
+windows internals + externals, low level reversing. ui + framework design.
 
 discord: hospital824356
