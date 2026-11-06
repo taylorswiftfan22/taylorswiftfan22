@@ -1,6 +1,5 @@
-mostly c++.
+c++ enthusiast.
 
-windows internals, game internals + externals, source 2, low level reversing (auth modules, game dumps, whatever's
-in front of me). a lot of ui work too.
+windows internals, game internals + externals, lots source 2 and osu, low level reversing. a lot of ui work too.
 
 discord: hospital824356
