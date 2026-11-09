@@ -2,6 +2,6 @@
 
 c++ fan
 
-windows internals + externals, low level reversing. ui + framework design.
+windows internals, reverse engineering, game tooling, automation & framework design.
 
 discord: hospital824356
